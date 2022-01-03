@@ -1,2 +1,2 @@
 # COD_MCA
-This contains the programs files of all the problems of  code of the day started from 1 Jan 2022
+This contains the C++ program files of the questions that are asked in Code of the Day by Application Club of MNNIT for MCA students.
