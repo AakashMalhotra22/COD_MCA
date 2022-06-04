@@ -1,2 +1,3 @@
 # COD_MCA
-This contain the C++ program files of the questions that are asked in Code of the Day by Application Club of MNNIT for MCA students.
+It contains the solution files of the all the coding problems that I used to get from my seniors everyday.
+All of the problems are solved using C++.
