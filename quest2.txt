@@ -1,0 +1,1 @@
+Add today's potd solution of leetcode
